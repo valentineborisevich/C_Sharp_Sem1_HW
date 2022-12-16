@@ -12,7 +12,6 @@ if (numberA > numberB)
     Console.WriteLine("max is " + numberA);
     Console.WriteLine("min is " + numberB);
 }
-
 else
 {
     Console.WriteLine("max is " + numberB);
